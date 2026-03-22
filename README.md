@@ -1,15 +1,19 @@
 ## Priscilla Owusu-Ansah — **Business Intelligence | Data Analytics**
 
-### About Me
-I explore how data can reveal patterns in markets and support strategic decision-making.
+## **👩🏽‍💻About Me**
 
-My work focuses on **market analysis, location analytics, and applying data science methods to real-world business questions.**
+
+## 
+
+
 
 ### Analytical Interests
 - Location analytics
 - Market segmentation
 - Retail expansion strategy
 - Data-driven decision making
+
+## 
 
 ## Professional Skills
 
@@ -38,6 +42,7 @@ My work focuses on **market analysis, location analytics, and applying data scie
 ### Libraries & Frameworks
 - Pandas
 - scikit-learn
+##
 
 ## 📬 Get in touch
 
