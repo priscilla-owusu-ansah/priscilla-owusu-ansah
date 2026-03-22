@@ -46,7 +46,7 @@
 
 ## 📬 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priscilla-owusu-ansah/)
 [![Projects](https://img.shields.io/badge/GitHub-Projects-blue?style=for-the-badge&logo=github)](https://github.com/priscilla-owusu-ansah)
 [![Notion](https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion)](YOUR_NOTION_LINK)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:owusuansah.priscilla@gmail.com)
