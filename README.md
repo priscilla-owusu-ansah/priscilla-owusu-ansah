@@ -1,6 +1,6 @@
 ## Priscilla Owusu-Ansah — **Business Intelligence | Data Analytics**
 
-## **👩🏽‍💻About Me**
+## **About Me**
 
 
 ## 
@@ -22,6 +22,8 @@
 - SQL
 - R
 - MATLAB
+- Power BI
+- Tableau
 - LookML (Looker)
 
 ### Data Science & Analytics
@@ -29,7 +31,7 @@
 - Natural Language Processing (NLP)
 - Time Series Analysis
 - Statistical Analysis
-- Data Visualization & Data Storytelling
+- Data Visualisation & Data Storytelling
 
 ### Data Platforms & Business Intelligence
 - Tableau
