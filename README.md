@@ -16,14 +16,6 @@ I am also naturally curious about both established ideas and emerging developmen
 
 ## 
 
-### Analytical Interests
-- Location analytics
-- Market segmentation
-- Retail expansion strategy
-- Data-driven decision making
-
-## 
-
 ## Professional Skills
 
 ### Programming & Query Languages
