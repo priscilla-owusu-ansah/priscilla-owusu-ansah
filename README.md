@@ -2,15 +2,10 @@
 
 ## **About Me**
 
-My interest in data started with a curiosity about patterns in human behaviour. I became interested in understanding why people make the choices they do and how those choices shape markets, organisations, and decisions.
+My interest in data started with a curiosity about patterns in human behaviour. I became intrigued with understanding why people make certain choices and how those choices shape everything around us.
 
-Over time I realised that if you understand behaviour, you begin to understand much more. Markets, products, and locations are not just systems or structures but they are reflections of people making choices within constraints.
-
-My background in economics has strongly shaped the way I approach analysis. It taught me to think about problems from both a micro and macro perspective and to recognise that behind every dataset are individuals and organisations making decisions with limited resources.
-
-I see analytics as a tool that helps organisations and people make better decisions. Organisations usually begin with a goal, and strategy is the path toward reaching it. Data helps clarify that path by revealing opportunities, risks, and patterns that might otherwise remain hidden.
-
-I enjoy the full analytical journey. It starts with messy data, moves through exploration and pattern discovery (or sometimes the lack of it 😅), and ends with explaining those patterns and communicating the right insights to support better decisions.
+My background in economics has strongly shaped the way I approach analysis. It taught me to think about problems from both a micro and macro perspective and to recognise that behind every dataset are individuals and organisations making decisions with limited resources. I see analytics as a tool that helps organisations and people make better decisions. Exploring data helps clarify a lot by revealing opportunities, risks, and patterns that might otherwise remain hidden.
+I enjoy the full analytical journey. The messy data, through exploration and pattern discovery (or sometimes the lack of it 😅), and explaining those patterns and communicating the right insights to support better decisions.
 
 I am also naturally curious about both established ideas and emerging developments. In short, I simply enjoy learning.
 
@@ -25,7 +20,7 @@ I am also naturally curious about both established ideas and emerging developmen
 - MATLAB
 - Power BI
 - Tableau
-- LookML (Looker)
+- LookML (Looker) - Learning
 
 ### Data Science & Analytics
 - Machine Learning
@@ -33,14 +28,18 @@ I am also naturally curious about both established ideas and emerging developmen
 - Time Series Analysis
 - Statistical Analysis
 - Data Visualisation & Data Storytelling
+- Location Analytics
+- Customer Segmentation
 
 ### Data Platforms & Business Intelligence
 - Tableau
 - Looker
 - Power BI
-- Snowflake
-- Databricks
-- Google Cloud Platform (GCP)
+- Snowflake - Learning 
+- Databricks - Learning 
+- Google Cloud Platform (GCP) - Learning
+
+- Anyone with great learning platforms should send them my way!
 
 ### Libraries & Frameworks
 - Pandas
