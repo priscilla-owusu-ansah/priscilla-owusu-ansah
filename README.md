@@ -1,13 +1,25 @@
-## Priscilla Owusu-Ansah — **Business Intelligence | Data Analytics**
+# Priscilla Owusu-Ansah - **Business Intelligence | Data Analytics**
 
-## **About Me**
+## A Not So Little About Me 😅
 
-My interest in data started with a curiosity about patterns in human behaviour. I became intrigued with understanding why people make certain choices and how those choices shape everything around us.
+### Where My Interest Began
 
-My background in economics has strongly shaped the way I approach analysis. It taught me to think about problems from both a micro and macro perspective and to recognise that behind every dataset are individuals and organisations making decisions with limited resources. I see analytics as a tool that helps organisations and people make better decisions. Exploring data helps clarify a lot by revealing opportunities, risks, and patterns that might otherwise remain hidden.
+My interest in data and analytics started from a curiosity about patterns in human behaviour. I am consistently intrigued with understanding why we make certain choices and how those choices shape everything.
+
+### How Economics Shaped My Analytical Thinking
+
+I studied economics, which strongly shaped the way I approach analysis. That exposure taught me to think about problems from both a micro and macro perspective. It also helped me recognise that behind every dataset are individuals and organisations making decisions with limited resources. 
+
+### Why Analytics Matters for Decision-Making
+
+I see analytics as a tool that helps organisations and people make better decisions. Exploring data helps clarify things by revealing opportunities, risks, and patterns that might otherwise remain hidden.
+
+### What I Enjoy About the Analytical Journey
+
 I enjoy the full analytical journey. The messy data, through exploration and pattern discovery (or sometimes the lack of it 😅), and explaining those patterns and communicating the right insights to support better decisions.
 
-I am also naturally curious about both established ideas and emerging developments. In short, I simply enjoy learning.
+### Always Learning
+Above all, I am driven by curiosity. I enjoy exploring both established ideas and emerging developments, and I value the continuous learning that comes from working with data and complex problems
 
 ## 
 
@@ -18,9 +30,6 @@ I am also naturally curious about both established ideas and emerging developmen
 - SQL
 - R
 - MATLAB
-- Power BI
-- Tableau
-- LookML (Looker) - Learning
 
 ### Data Science & Analytics
 - Machine Learning
@@ -33,8 +42,8 @@ I am also naturally curious about both established ideas and emerging developmen
 
 ### Data Platforms & Business Intelligence
 - Tableau
-- Looker
 - Power BI
+- LookML (Looker) - Learning
 - Snowflake - Learning 
 - Databricks - Learning 
 - Google Cloud Platform (GCP) - Learning
@@ -46,7 +55,7 @@ I am also naturally curious about both established ideas and emerging developmen
 - scikit-learn
 ##
 
-## 📬 Get in touch
+## 📬 Get & Stay in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priscilla-owusu-ansah/)
 [![Projects](https://img.shields.io/badge/GitHub-Projects-blue?style=for-the-badge&logo=github)](https://github.com/priscilla-owusu-ansah)
