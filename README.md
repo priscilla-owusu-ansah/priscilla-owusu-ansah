@@ -8,11 +8,11 @@ My interest in data and analytics started from a curiosity about patterns in hum
 
 ### How Economics Shaped My Analytical Thinking
 
-I studied economics, which strongly shaped the way I approach analysis. That exposure taught me to think about problems from both a micro and macro perspective. It also helped me recognise that behind every dataset are individuals and organisations making decisions with limited resources. 
+I studied economics, which strongly shaped the way I approach analysis. That exposure taught me to think about problems from both a micro and macro perspective. It also helped me to recognise that behind every dataset are individuals and organisations making decisions with limited resources. 
 
 ### Why Analytics Matters for Decision-Making
 
-I see analytics as a tool that helps organisations and people make better decisions. Exploring data helps clarify things by revealing opportunities, risks, and patterns that might otherwise remain hidden.
+I see analytics as a tool to help organisations and people make better decisions. The right insight helps clarify things by revealing opportunities, risks, and patterns that might otherwise remain hidden.
 
 ### What I Enjoy About the Analytical Journey
 
