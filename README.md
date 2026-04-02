@@ -1,4 +1,4 @@
-# Priscilla Owusu-Ansah - **Business Intelligence | Data Analytics**
+# Priscilla Owusu-Ansah - **Business Intelligence | Data Analysis**
 
 ## A Not So Little About Me 😅
 
