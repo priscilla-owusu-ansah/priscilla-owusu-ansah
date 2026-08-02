@@ -26,8 +26,8 @@ Above all, I am driven by curiosity. I enjoy exploring both established ideas an
 ## Professional Skills
 
 ### Programming & Query Languages
-- Python
 - SQL
+- Python
 - R
 - MATLAB
 
@@ -41,14 +41,10 @@ Above all, I am driven by curiosity. I enjoy exploring both established ideas an
 - Customer Segmentation
 
 ### Data Platforms & Business Intelligence
-- Tableau
 - Power BI
-- LookML (Looker) - Learning
-- Snowflake - Learning 
-- Databricks - Learning 
-- Google Cloud Platform (GCP) - Learning
-
-- Anyone with great learning platforms should send them my way!
+- Tableau
+- Microsoft Fabric - Developing
+- Databricks - Learning
 
 ### Libraries & Frameworks
 - Pandas
@@ -61,3 +57,5 @@ Above all, I am driven by curiosity. I enjoy exploring both established ideas an
 [![Projects](https://img.shields.io/badge/GitHub-Projects-blue?style=for-the-badge&logo=github)](https://github.com/priscilla-owusu-ansah)
 [![Notion](https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion)](YOUR_NOTION_LINK)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:owusuansah.priscilla@gmail.com)
+
+Kindly send great learning resources my way!
